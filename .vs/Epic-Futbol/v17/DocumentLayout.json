@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Futbol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|e:\\proyectos\\epic-futbol\\assets\\scripts\\kickball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|e:\\proyectos\\epic-futbol\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|E:\\Proyectos\\Epic-Futbol\\assets\\scripts\\kickball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\kickball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:33:59.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KickBall.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\KickBall.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KickBall.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\KickBall.cs",
               "RelativeToolTip": "Assets\\Scripts\\KickBall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T00:29:59.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T00:29:59.871Z"
             }
           ]
         }

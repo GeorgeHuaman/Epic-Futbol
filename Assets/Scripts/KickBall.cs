@@ -10,7 +10,7 @@ public class KickBall : MonoBehaviour
     public Transform ballTransform;
     public Rigidbody ballRb;
     public float kickForce;
-
+    public Ball ball;
 
     void Update()
     {
@@ -21,10 +21,13 @@ public class KickBall : MonoBehaviour
 
         time += Time.deltaTime;
 
-        if (distance < 1.25f && time >= cooldown)
+        if (distance <= 1.1f && time >= cooldown)
         {
             ballRb.AddForce(direction * kickForce, ForceMode.Impulse);
             time = 0f;
         }
+
+
+
     }
 }
