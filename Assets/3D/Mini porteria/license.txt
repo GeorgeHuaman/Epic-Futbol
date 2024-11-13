@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futsal Goal 1
+* source:	https://sketchfab.com/3d-models/futsal-goal-1-734e0efd07184f8b88393b1f12c65ee9
+* author:	Pchicko (https://sketchfab.com/Pchicko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futsal Goal 1" (https://sketchfab.com/3d-models/futsal-goal-1-734e0efd07184f8b88393b1f12c65ee9) by Pchicko (https://sketchfab.com/Pchicko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -11,7 +11,7 @@ public class KickBall : MonoBehaviour
     public Rigidbody ballRb;
     public float kickForce;
     public Ball ball;
-
+    public Transform initialPosition;
     void Update()
     {
         Vector3 playerPosition = SpatialBridge.actorService.localActor.avatar.position;
@@ -29,5 +29,13 @@ public class KickBall : MonoBehaviour
 
 
 
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.layer == LayerMask.NameToLayer("ball"))
+        {
+            transform.position = initialPosition.position;
+        }
     }
 }
