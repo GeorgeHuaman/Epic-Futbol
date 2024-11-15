@@ -29,6 +29,23 @@ public class Ball : MonoBehaviour
             time = 0f;
         }
     }
+
+
+    public void KicK()
+    {
+        Vector3 playerPosition = SpatialBridge.actorService.localActor.avatar.position;
+        playerPosition.y -= 0.3f; // Ajusta el valor según lo necesario
+        Vector3 direction = (transform.position - playerPosition).normalized;
+
+
+        float distance = Vector3.Distance(transform.position, playerPosition);
+
+
+
+
+        rb.AddForce(direction * kickForce, ForceMode.Impulse);
+        time = 0f;
+    }
     //public void GiveControl()
     //{
     //    if (!hasControl) 

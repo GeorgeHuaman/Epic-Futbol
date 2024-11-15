@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|e:\\proyectos\\epic-futbol\\assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|e:\\proyectos\\epic-futbol\\assets\\scripts\\monologue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\monologue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|E:\\Proyectos\\Epic-Futbol\\assets\\scripts\\kickball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|E:\\Proyectos\\Epic-Futbol\\assets\\scripts\\ballcorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ballcorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|E:\\Proyectos\\Epic-Futbol\\assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1DAA8E-7814-4EC3-3DAA-000F989F58A0}|NewAssembly.csproj|solutionrelative:assets\\scripts\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,9 +29,22 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 188,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 208,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monologue.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\Monologue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monologue.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\Monologue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monologue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:13:47.874Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,8 +55,7 @@
               "RelativeToolTip": "Assets\\Scripts\\KickBall.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:25:10.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T21:25:10.122Z"
             },
             {
               "$type": "Document",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Goal.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\Goal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Goal.cs",
@@ -63,13 +79,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Goal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T19:45:59.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T19:45:59.805Z"
             }
           ]
         },
         {
-          "DockedWidth": 254,
+          "DockedWidth": 234,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -80,7 +95,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Futbol\\Assets\\Scripts\\Ball.cs",
               "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:12:41.837Z",
               "EditorCaption": ""
